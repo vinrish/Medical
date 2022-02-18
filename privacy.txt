@@ -1,0 +1,4 @@
+Drinks Centre app requires only internet access permission 
+and access the network state for a device so as to notify the user due to the payment option which requires internet.
+This app is not for the under aged since it contains alcohol based contents,
+Terms and conditions apply
